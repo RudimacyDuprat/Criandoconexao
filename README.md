@@ -8,34 +8,6 @@ Backend: Node.js
 
 Banco de Dados: MySQL
 
-Como Rodar o Projeto
-Clone o repositório:
-
-Bash
-
-git clone https://www.dio.me/articles/enviando-seu-projeto-para-o-github
-Instale as dependências:
-
-Bash
-
-cd [nome da pasta do projeto]
-npm install
-Configure o banco de dados:
-
-Certifique-se de que o MySQL está instalado e rodando.
-
-Crie um banco de dados com o nome que preferir.
-
-Ajuste as credenciais de conexão no arquivo de configuração do seu projeto.
-
-Inicie o servidor:
-
-Bash
-
-node [nome do seu arquivo de servidor, por exemplo: server.js]
-Funcionalidades
-Coleta de dados do formulário.
-
 Conexão com o banco de dados MySQL.
 
 Armazenamento dos dados enviados pelo formulário.
